@@ -10,15 +10,18 @@ This is my first GitHub repository where I explore data analysis using Python.
 - Generate insights using visualization  
 
 ## 🛠️ Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
+- Python (Pandas, NumPy, Matplotlib, Seaborn  )
+- SQL (SQLite)
+- Power BI (DAX, Power Query)
+- Excel (basic analysis)
 
 ## 📂 Project Structure
-- data/ → dataset files  
-- notebook/ → Jupyter notebooks  
-- output/ → charts & results  
+├── data/
+├── notebooks/
+├── sql/
+├── dashboard/
+├── images/
+└── README.md  
 
 ## 📈 Key Insights
 - (Add 2–3 insights from your dataset)

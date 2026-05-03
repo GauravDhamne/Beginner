@@ -72,13 +72,16 @@ To start my career in Data Analytics / Data Science where I can apply my analyti
 
 
 ### 📂 Project Structure
->
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── images/
-└── README.md  
+
+project-name/
+│
+├── data/          # Raw and processed datasets
+├── notebooks/     # Jupyter notebooks for analysis
+├── sql/           # SQL queries and scripts
+├── dashboard/     # Power BI / Tableau files
+├── images/        # Charts and visuals
+├── requirements.txt
+└── README.md
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

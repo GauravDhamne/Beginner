@@ -18,48 +18,61 @@ To start my career in Data Analytics / Data Science where I can apply my analyti
 
 ## 🛠️ Skills
 
-### 📊 Data Analysis
+## 🛠️ Skills
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Interpretation
-
-### 💻 Programming & Tools
+### 💻 Programming Languages & Scripting
 
 * Python
 * SQL
-* Excel
-* Jupyter Notebook
 
-### 🗄️ Database Management
+### 📊 Data Analysis & Libraries
 
-* Relational Databases (MySQL, PostgreSQL)
-* Writing Efficient Queries (Joins, Subqueries)
-* Data Modeling Basics
-* Data Extraction & Transformation
+* Pandas (Data Manipulation, Cleaning, Transformation)
+* NumPy (Numerical Computations)
+* Handling Missing Values & Outliers
+* Data Aggregation & Grouping
+* Working with Structured Datasets (CSV, Excel)
 
-### 📈 Visualization
+### 📈 Data Visualization
 
-* Power BI
-* Tableau
 * Matplotlib
 * Seaborn
+* Plotly
 
 ### 🤖 Machine Learning
 
 * Supervised Learning (Regression, Classification)
-* Basic Model Building
 * Feature Engineering
-* Model Evaluation
+* Scikit-learn
 
-### 📚 Core Concepts
+### 🗄️ Database Management
 
-* Statistics (Mean, Median, Correlation)
-* Data Handling
-* Problem Solving
+* MySQL
+* SQL Server
+* PostgreSQL
+* SQLite
+
+### 📊 Analytics Techniques
+
+* ETL (Extract, Transform, Load)
+* EDA (Exploratory Data Analysis)
+* Hypothesis Testing
+* Data Modeling
+* Data Cleaning
+
+### 📊 BI & Reporting
+
+* Power BI (DAX, Power Query, Dashboards)
+* Tableau
+
+### 🛠️ Tools
+
+* Excel (Pivot Tables, VLOOKUP, XLOOKUP)
+* Jupyter Notebook
+
 
 ### 📂 Project Structure
-
+>
 ├── data/
 ├── notebooks/
 ├── sql/

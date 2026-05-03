@@ -1,5 +1,7 @@
 # 👨‍💻 Aspiring Data Analyst | Data Science Enthusiast
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 📌 About Me
 
 I am an aspiring Data Analyst with a background in Computer Applications, focused on building strong foundations in data analysis and data science.
@@ -73,15 +75,24 @@ To start my career in Data Analytics / Data Science where I can apply my analyti
 
 ### 📂 Project Structure
 
+```
 project-name/
 │
-├── data/          # Raw and processed datasets
-├── notebooks/     # Jupyter notebooks for analysis
-├── sql/           # SQL queries and scripts
-├── dashboard/     # Power BI / Tableau files
-├── images/        # Charts and visuals
-├── requirements.txt
-└── README.md
+├── data/          # Raw and processed datasets used for analysis
+│
+├── notebooks/     # Jupyter notebooks for EDA and analysis
+│
+├── scripts/       # Python or SQL scripts for data processing
+│
+├── dashboard/     # Power BI / Tableau dashboard files
+│
+├── images/        # Charts, graphs, and visuals used in README
+│
+├── output/        # Final results, cleaned data, or exported files
+│
+└── README.md      # Project documentation and overview
+
+```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
